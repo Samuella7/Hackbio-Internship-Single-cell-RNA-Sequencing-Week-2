@@ -4,7 +4,7 @@ This essay contains a detailed summary of recent advances in single-cell genomic
 
 ---
 
-## 📄 Essay Content
+## Essay Content
 
 ### 1. Limitations of Traditional Approaches
 - How bulk analyses can obscure true immune cell heterogeneity.
@@ -35,6 +35,6 @@ This essay contains a detailed summary of recent advances in single-cell genomic
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To provide a clear and structured overview of single-cell genomics technologies and their growing role in understanding, predicting, and guiding immune system behavior.
