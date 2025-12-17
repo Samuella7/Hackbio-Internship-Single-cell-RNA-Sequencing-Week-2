@@ -1,0 +1,46 @@
+# Slide 1: Limits of Traditional Immunology Approaches
+- Traditional methods relied on bulk cell analysis, masking immune cell diversity.
+- Giladi & Amit (2017): Single-cell genomics reveals immune complexity at an unprecedented level.
+- Benefits of single-cell analysis:
+  - Identification of rare cell types
+  - Capture of transient cell states
+  - Observation of dynamic tissue interactions
+
+# Slide 2: Emergence and Advantages of scRNA-seq
+- Single-cell RNA sequencing (scRNA-seq): central to recent advances.
+- Key improvements:
+  - Microfluidics
+  - Unique molecular identifiers (UMIs)
+  - High-throughput sequencing
+- Complementary methods:
+  - CyTOF (protein levels)
+  - Index sorting
+  - Spatial transcriptomics (cell location within tissues)
+
+# Slide 3: Overview of Single-Cell Technologies
+- Different scRNA-seq methods:
+  - Plate-based: full-length transcript coverage, limited cell number.
+  - Droplet-based (e.g., 10x Chromium): high throughput, less per-cell info.
+  - Combinatorial indexing: millions of cells.
+  - Spatial transcriptomics: physical cell location.
+- Method choice depends on study goals, cost, resolution.
+
+# Slide 4: Advantages and Challenges of scRNA-seq
+- Advantages:
+  - Greater sensitivity and resolution than traditional assays.
+  - New immune cell subsets identified (e.g., microglia in Alzheimer’s).
+  - Insights into tumor-immune and infection responses.
+- Challenges:
+  - Data sparsity
+  - High cost
+  - Computational complexity
+
+# Slide 5: Future Directions in Single-Cell Genomics
+- Integrating multiple biological layers:
+  - Transcriptomics, epigenetics, proteomics.
+- Technologies:
+  - CRISPR-based Perturb-seq
+  - Lineage tracing
+- Goal:
+  - Reconstruct immune lineages
+  - Predict and guide therapeutic outcomes
